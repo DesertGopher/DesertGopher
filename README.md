@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DesertGopher)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DesertGopher)](https://github.com/DesertGopher/github-readme-stats)
 <!--
 **DesertGopher/DesertGopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
